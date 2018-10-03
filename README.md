@@ -2,7 +2,7 @@
 Scripts for the scheduling and managing LCO requests
 
 USAGE
-To use these scripts you need to have a file called token.txt with just your LCO authentacation token in it.  You can learn how to get this token here:
+To use these scripts you need to have a file called token.txt with just your LCO authentication token in it.  You can learn how to get this token here:
 https://developers.lco.global/
 
 Some example usage:
